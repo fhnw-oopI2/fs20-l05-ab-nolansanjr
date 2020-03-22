@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module05.streams.ab1;
+package src.ch.fhnw.oop2.module05.streams.ab1;
 
 /**
  * Die Klasse Tuple verpackt zwei Werte. Sie ist also ein einfacher

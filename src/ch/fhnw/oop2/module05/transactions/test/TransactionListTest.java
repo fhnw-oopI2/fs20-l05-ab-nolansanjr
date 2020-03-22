@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module05.transactions.test;
+package src.ch.fhnw.oop2.module05.transactions.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -10,9 +10,9 @@ import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import ch.fhnw.oop2.module05.transactions.Trader;
-import ch.fhnw.oop2.module05.transactions.Transaction;
-import ch.fhnw.oop2.module05.transactions.TransactionList;
+import src.ch.fhnw.oop2.module05.transactions.Trader;
+import src.ch.fhnw.oop2.module05.transactions.Transaction;
+import src.ch.fhnw.oop2.module05.transactions.TransactionList;
 
 class TransactionListTest {
 

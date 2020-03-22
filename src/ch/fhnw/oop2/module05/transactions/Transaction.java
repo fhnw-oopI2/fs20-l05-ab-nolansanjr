@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module05.transactions;
+package src.ch.fhnw.oop2.module05.transactions;
 
 /**
  * Die Klasse modelliert eine Transaktion. Eine Transaktion ist ein Börsengeschäft, also

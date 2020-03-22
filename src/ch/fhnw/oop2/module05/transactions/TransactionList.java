@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module05.transactions;
+package src.ch.fhnw.oop2.module05.transactions;
 
 import java.util.ArrayList;
 import java.util.List;

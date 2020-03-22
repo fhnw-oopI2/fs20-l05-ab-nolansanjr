@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module05.streams;
+package src.ch.fhnw.oop2.module05.streams;
 
 import static java.util.stream.Collectors.groupingBy;
 
